@@ -1,2 +1,0 @@
-model_checkpoint_path: "train_w-20000_weights.h5f"
-all_model_checkpoint_paths: "train_w-20000_weights.h5f"
